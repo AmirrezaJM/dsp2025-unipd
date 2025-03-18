@@ -1,7 +1,7 @@
 # **Noise Removal - Audio Processing**
 
 ## **Overview**
-This project implements multiple **noise reduction techniques** for audio processing using Python for DSP project in 2024-2025. The script takes an input audio file, adds synthetic noise, applies a chosen noise reduction method, and saves the enhanced output.
+This project implements multiple **noise reduction techniques** for audio processing using Python for DSP project in 2024-2025 with professor Battisti. The script takes an input audio file, adds synthetic noise, applies a chosen noise reduction method, and saves the enhanced output.
 
 ## **Functions**
 - **Load and Process Audio**: Reads audio files and prepares them for processing.
@@ -20,7 +20,7 @@ Ensure you have Python installed, then install required libraries:
 ```sh
 pip install numpy librosa soundfile scipy matplotlib
 ```
-for the some mac os you have to use a virtual environemnt.
+for the some mac os you have to use a virtual environement.
 run this code here 
 ```sh 
     python3 -m venv path/to/venv
